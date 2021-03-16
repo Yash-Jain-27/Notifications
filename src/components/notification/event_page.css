@@ -1,0 +1,12 @@
+.event-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.invites {
+    border: 1px red solid;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 10px;
+}
